@@ -1,0 +1,13 @@
+{
+    "name": "pedro/teste",
+    "autoload": {
+        "psr-4": {
+            "Pedro\\Teste\\": "src/"
+        }
+    },
+    "require": {
+        "rain/raintpl": "^3.1",
+        "mpdf/mpdf": "^8.1",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

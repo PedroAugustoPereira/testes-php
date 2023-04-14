@@ -1,0 +1,7 @@
+{
+    "name": "pedri/email",
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
